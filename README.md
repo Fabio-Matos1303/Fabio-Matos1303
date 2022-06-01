@@ -2,13 +2,12 @@
 
 - 🔭 Hoje me encontro desbravando as possibilidades da programação e desenvolvimento-web
 - 🌱 Estudando HTML5 e CSS3
-- 📫 Contate-me no email: fabiosmo123@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Fabio-Matos1303">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-matos1303&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-matos1303&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabio-matos1303&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-matos1303&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
